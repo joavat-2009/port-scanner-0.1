@@ -33,7 +33,7 @@ GitHub: joavat-2009
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/port-scanner-0.1.git
+git clone https://github.com/joavat-2009/port-scanner-0.1.git
 cd port-scanner-0.1
 pip install -r requirements.txt
 python scanner.py
