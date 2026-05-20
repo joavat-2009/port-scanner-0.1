@@ -26,9 +26,9 @@ Educational port scanning tool developed for network security course. Implements
 - MIT License - for educational purposes only
 
 ## Author
-Joseph Avatiants
-Email: joavat2009@gmail.com
-GitHub: joavat-2009
+- Joseph Avatiants
+- Email: joavat2009@gmail.com
+- GitHub: joavat-2009
 
 ## Installation
 
