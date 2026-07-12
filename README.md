@@ -33,7 +33,7 @@ Educational port scanning tool developed for network security course. Implements
 ## Installation
 
 ```bash
-git clone https://github.com/joavat-2009/port-scanner-0.1.git
-cd port-scanner-0.1
+git clone https://github.com/joavat-2009/port-scanner-gui.git
+cd port-scanner-gui
 pip install -r requirements.txt
 python scanner.py
